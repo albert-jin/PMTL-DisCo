@@ -1,0 +1,34 @@
+/paper/
+FIRST_PRINCIPLES.md
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs and runtime files
+*.log
+*.out
+*.err
+
+# IDE/OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
